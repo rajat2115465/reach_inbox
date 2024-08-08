@@ -12,7 +12,7 @@ https://reach-inbox-sigma.vercel.app/
 ## Screenshots
 1. Login Page <hr>
   
-   ![Screenshot (288)](https://reach-inbox-sigma.vercel.app/))
+   ![Screenshot (288)](https://reach-inbox-sigma.vercel.app/)
 
    
 3. Home Page <hr>
