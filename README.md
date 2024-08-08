@@ -12,7 +12,7 @@ https://reach-inbox-sigma.vercel.app/
 ## Screenshots
 1. Login Page <hr>
   
-   ![Screenshot (288)](https://github.com/ayushishr/React-ReachInBox/assets/128039555/daf6cb4e-f5a2-4ae8-b00c-2c9145371e3f)
+   ![Screenshot (288)](https://reach-inbox-sigma.vercel.app/))
 
    
 3. Home Page <hr>
