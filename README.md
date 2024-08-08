@@ -1,6 +1,6 @@
 # Reachinbox
 DEPLOYMENT LINK
-https://react-reach-in-box.vercel.app/
+https://reach-inbox-sigma.vercel.app/
 ## Feature
 - User can login using google account
 - Switch theme light or dark
